@@ -47,5 +47,5 @@
 5. 检查重新设计的原因：从重新设计的原因与自己问题结合，看看模式能否帮助避免这些问题
 6. 考虑设计中哪些是可变的：考虑想要什么变化却不会引起重新设计（设计模式最主要的一点是“**封装变化**”）
 
-![捕获](Z:\temp\捕获.PNG)
+![捕获](https://github.com/Mingming-Git/Design-Pattern-learning-note/blob/master/screenshot/%E6%8D%95%E8%8E%B7.PNG)
 
