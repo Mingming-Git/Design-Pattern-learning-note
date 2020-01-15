@@ -18,7 +18,7 @@
 
 ## 3、结构图
 
-![](Z:\temp\abstractfactory_structure.PNG)
+![structure](/screenshot/abstractfactory_structure.PNG)
 
 ## 4、效果（优缺点）
 
