@@ -11,9 +11,7 @@ Builder（生成器）
 
 3、结构图
 
-![builder]https://github.com/Mingming-Git/Design-Pattern-learning-note/blob/master/screenshot/builder.PNG
-
-![1579231893366](C:\Users\limingming\AppData\Roaming\Typora\typora-user-images\1579231893366.png)
+![builder](https://github.com/Mingming-Git/Design-Pattern-learning-note/blob/master/screenshot/builder.PNG)
 
 4、效果
 
