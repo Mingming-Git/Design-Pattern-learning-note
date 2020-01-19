@@ -12,7 +12,7 @@
 
 ## 3、结构图
 
-![builder](/master/screenshot/factorymethod.PNG)
+![builder](https://github.com/Mingming-Git/Design-Pattern-learning-note/blob/master/screenshot/factorymethod.PNG)
 
 ## 4、效果
 
