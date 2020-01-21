@@ -12,7 +12,7 @@
 
 ## 3、结构图
 
-![builder](/master/screenshot/prototype.PNG)
+![builder](/screenshot/prototype.PNG)
 
 ## 4、效果
 
@@ -31,7 +31,7 @@
 
 ​        从下面这幅图可以很容易的区别出浅拷贝和深拷贝，当在进行浅拷贝时，指针还是指向原来Value地址中的值，当进行深拷贝时，系统会把原来Value的地址即所包含的值都进行复制。
 
-![clone](/master/screenshot/prototype_clone.PNG)
+![clone](/screenshot/prototype_clone.PNG)
 
 ![img](https://images.cnblogs.com/cnblogs_com/feipeng/Pic014.jpg)
 
